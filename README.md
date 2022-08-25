@@ -3,7 +3,7 @@
 <img src="src/assets/gif-slider-payment.gif" alt="Video Projeto" width="100%" height="500">
 
 > 🔎 Página Web de plataforma online de cursos para investimentos financeiros. <br>
-🗔 Confira a aplicação: https://slider-payment.vercel.app/ <br>
+🗔 Confira a aplicação: https://easy-finances.vercel.app/ <br>
 
 ## 📄 Explicação
 Aprenda a investir seu dinheiro de forma correta com os melhores professores e conteúdos atualizados do mercado financeiro.
