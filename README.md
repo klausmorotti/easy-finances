@@ -1,4 +1,4 @@
-<h1 align="center">EASY FINANCE</h1>
+<h1 align="center">EASY FINANCES</h1>
 
 <img src="src/assets/gif-slider-payment.gif" alt="Video Projeto" width="100%" height="500">
 
@@ -26,9 +26,9 @@ O site tem no total 1 página, sendo ela
 
 :heavy_check_mark: Criar projeto com CRA <br>
 :heavy_check_mark: Instalando o TailwindCSS. <br>
-:heavy_check_mark: Coletando as referências vindo do UX/UI Designer. <br>
+:heavy_check_mark: Coletando as referências vindas do UX/UI Designer. <br>
 :heavy_check_mark: Definindo a lógica usada no projeto. <br>
-:heavy_check_mark: Criando cada área do projeto com componentização e TailWindCSS. <br>
+:heavy_check_mark: Criando cada área do projeto com componentização e TailwindCSS. <br>
 :x: Adaptando o projeto para Desktop. <br>
 :x: Criando Links no cabeçalho que levam para suas respectivas áreas. <br>
 :x: Criando Carrossel na área depoimentos. <br>
@@ -70,7 +70,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 📝 Licença
 
-Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/klausmorotti/slider-payment/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
+Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/klausmorotti/easy-finances/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
 
 
 <a href="#top">Volte para o topo</a>
