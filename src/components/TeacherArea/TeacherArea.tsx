@@ -1,43 +1,48 @@
+import styles from '../../styles.module.css';
+
 export const TeacherArea = () => {
     return (
         <section className="w-full p-4 bg-[#D9D9D9]">
-            <article className="p-8 flex flex-col">
+            <article className="max-w-screen-xl mx-auto p-8 flex flex-col">
 
                 <div className="flex flex-col">
                     <div className="flex items-center">
                         <div className="w-10 h-10 bg-[#BCEF30] flex justify-center items-center rounded-full">3</div>
-                        <h2 className="ml-2 font-semibold">Professores</h2>
+                        <h2 className="font-['Open_Sans'] ml-2 font-semibold md:text-xl md:ml-4">Professores</h2>
                     </div>
-                    <p className="mt-8"><span className="font-bold">4 professores</span> especializados para levar a sua performance ao máximo, sem complicação e com muita fluidez!</p>
+                    <div className="mt-12 flex flex-col md:flex-row md:justify-between">
+                        <h1 className="font-['Open_Sans'] text-4xl text-[#080808] font-bold lg:text-5xl">Quem vai te ensinar</h1>
+                        <p className="mt-4 font-['inter'] md:w-80 md:text-xl md:mt-0"><span className="font-bold">4 professores</span> especializados para levar a sua performance ao máximo, sem complicação e com muita fluidez!</p>
+                    </div>
                 </div>
 
-                <div className="w-full mt-16  grid-cols-1">
+                <div className="w-full mt-16 grid grid-cols-1 gap-y-8 md:grid-cols-2 md:gap-4 lg:grid-cols-4">
 
-                    <div className="w-full h-72 p-4 bg-[#080808] flex flex-col justify-end rounded-md cursor-pointer transition ease duration-500 hover:scale-105">
+                    <div className={styles.imageProfessor1}>
                         <div>
-                            <h3 className="text-[#FFF] font-bold">Fernanda Cardoso</h3>
-                            <p className="text-[#FFF] text-sm">Professora de economia</p>
+                            <h3 className="font-['Open_Sans'] text-[#FFF] text-xl font-bold">Fernanda Cardoso</h3>
+                            <p className="text-[#FFF] font-['inter'] text-sm">Professora de economia</p>
                         </div>
                     </div>
 
-                    <div className="w-full h-72 mt-4 p-4 bg-[#080808] flex flex-col justify-end rounded-md cursor-pointer transition ease duration-500 hover:scale-105">
+                    <div className={styles.imageProfessor2}>
                         <div>
-                            <h3 className="text-[#FFF] font-bold">João Victor</h3>
-                            <p className="text-[#FFF] text-sm">Professor de economia</p>
+                            <h3 className="font-['Open_Sans'] text-[#FFF] text-xl font-bold">João Victor</h3>
+                            <p className="text-[#FFF] font-['inter'] text-sm">Professor de economia</p>
                         </div>
                     </div>
 
-                    <div className="w-full h-72 mt-4 p-4 bg-[#080808] flex flex-col justify-end rounded-md cursor-pointer transition ease duration-500 hover:scale-105">
+                    <div className={styles.imageProfessor3}>
                         <div>
-                            <h3 className="text-[#FFF] font-bold">Ana Tinetz</h3>
-                            <p className="text-[#FFF] text-sm">Professora de economia</p>
+                            <h3 className="font-['Open_Sans'] text-[#FFF] text-xl font-bold">Ana Tinetz</h3>
+                            <p className="text-[#FFF] font-['inter'] text-sm">Professora de economia</p>
                         </div>
                     </div>
 
-                    <div className="w-full h-72 mt-4 p-4 bg-[#080808] flex flex-col justify-end rounded-md cursor-pointer transition ease duration-500 hover:scale-105">
+                    <div className={styles.imageProfessor4}>
                         <div>
-                            <h3 className="text-[#FFF] font-bold">Henrique Madete</h3>
-                            <p className="text-[#FFF] text-sm">Professor de economia</p>
+                            <h3 className="font-['Open_Sans'] text-[#FFF] text-xl font-bold">Henrique Madete</h3>
+                            <p className="text-[#FFF] font-['inter'] text-sm">Professor de economia</p>
                         </div>
                     </div>
 

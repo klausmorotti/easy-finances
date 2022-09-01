@@ -13,6 +13,13 @@ module.exports = {
         'color1-gradient': '#090A0F',
         'color2-gradient': '#090A0E',
         'color3-gradient': '#0C0D12'
+      },
+      spacing: {
+        'width-slider': '300%',
+      },
+      fontFamily: {
+        inter:"'Inter', sans-serif",
+        opensans:"'Open Sans', sans-serif"
       }
     },
   },
