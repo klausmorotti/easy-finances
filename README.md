@@ -1,6 +1,6 @@
 <h1 align="center">EASY FINANCES</h1>
 
-<img src="src/assets/gif-slider-payment.gif" alt="Video Projeto" width="100%" height="500">
+<img src="src/assets/images/easy-finances-gif.gif" alt="Video Projeto" width="100%" height="500">
 
 > 🔎 Página Web de plataforma online de cursos para investimentos financeiros. <br>
 🗔 Confira a aplicação: https://easy-finances.vercel.app/ <br>
