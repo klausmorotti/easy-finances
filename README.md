@@ -29,12 +29,12 @@ O site tem no total 1 página, sendo ela
 :heavy_check_mark: Coletando as referências vindo do UX/UI Designer. <br>
 :heavy_check_mark: Definindo a lógica usada no projeto. <br>
 :heavy_check_mark: Criando cada área do projeto com componentização e TailWindCSS. <br>
-:x: Adaptando o projeto para Desktop. <br>
+:heavy_check_mark: Adaptando o projeto para Desktop. <br>
 :x: Criando Links no cabeçalho que levam para suas respectivas áreas. <br>
-:x: Criando Carrossel na área depoimentos. <br>
-:x: Adicionando datas no footer para inserir o ano. <br>
-:x: Criando Scroll personalizado. <br>
-:x: Fazendo o Clean Code do código. <br>
+:heavy_check_mark: Criando Carrossel na área depoimentos. <br>
+:x: Criando Seção Carrossel automático. <br>
+:heavy_check_mark: Fazendo o Clean Code do código. <br>
+:heavy_check_mark: Adicionando datas no footer para inserir o ano. <br>
 :x: Projeto Finalizado. <br>
 
 ## 🚀 Tecnologias 
