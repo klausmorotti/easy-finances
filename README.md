@@ -28,15 +28,12 @@ O site tem no total 1 página, sendo ela
 :heavy_check_mark: Instalando o TailwindCSS. <br>
 :heavy_check_mark: Coletando as referências vindas do UX/UI Designer. <br>
 :heavy_check_mark: Definindo a lógica usada no projeto. <br>
-:heavy_check_mark: Criando cada área do projeto com componentização e TailWindCSS. <br>
-:heavy_check_mark: Adaptando o projeto para Desktop. <br>
 :heavy_check_mark: Criando cada área do projeto com componentização e TailwindCSS. <br>
-:x: Criando Links no cabeçalho que levam para suas respectivas áreas. <br>
+:heavy_check_mark: Adaptando o projeto para Desktop. <br>
 :heavy_check_mark: Criando Carrossel na área depoimentos. <br>
-:x: Criando Seção Carrossel automático. <br>
 :heavy_check_mark: Fazendo o Clean Code do código. <br>
 :heavy_check_mark: Adicionando datas no footer para inserir o ano. <br>
-:x: Projeto Finalizado. <br>
+:heavy_check_mark: Projeto Finalizado. <br>
 
 ## 🚀 Tecnologias 
 
