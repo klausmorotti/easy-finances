@@ -1,6 +1,6 @@
 <h1 align="center">EASY FINANCES</h1>
 
-<img src="src/assets/gif-slider-payment.gif" alt="Video Projeto" width="100%" height="500">
+<img src="src/assets/images/easy-finances-gif.gif" alt="Video Projeto" width="100%" height="500">
 
 > 🔎 Página Web de plataforma online de cursos para investimentos financeiros. <br>
 🗔 Confira a aplicação: https://easy-finances.vercel.app/ <br>
@@ -28,19 +28,12 @@ O site tem no total 1 página, sendo ela
 :heavy_check_mark: Instalando o TailwindCSS. <br>
 :heavy_check_mark: Coletando as referências vindas do UX/UI Designer. <br>
 :heavy_check_mark: Definindo a lógica usada no projeto. <br>
-<<<<<<< HEAD
-:heavy_check_mark: Criando cada área do projeto com componentização e TailWindCSS. <br>
-:heavy_check_mark: Adaptando o projeto para Desktop. <br>
-=======
 :heavy_check_mark: Criando cada área do projeto com componentização e TailwindCSS. <br>
-:x: Adaptando o projeto para Desktop. <br>
->>>>>>> 18896e2b4b8c58c1253f0f183645008d7dd45f71
-:x: Criando Links no cabeçalho que levam para suas respectivas áreas. <br>
+:heavy_check_mark: Adaptando o projeto para Desktop. <br>
 :heavy_check_mark: Criando Carrossel na área depoimentos. <br>
-:x: Criando Seção Carrossel automático. <br>
 :heavy_check_mark: Fazendo o Clean Code do código. <br>
 :heavy_check_mark: Adicionando datas no footer para inserir o ano. <br>
-:x: Projeto Finalizado. <br>
+:heavy_check_mark: Projeto Finalizado. <br>
 
 ## 🚀 Tecnologias 
 
