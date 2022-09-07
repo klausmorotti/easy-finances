@@ -82,7 +82,7 @@ export const DepoimentsArea = () => {
 
                 </div>
 
-                <div className="mt-8 flex justify-center">
+                <div className="mt-8 flex justify-end">
                     <div className="w-8 h-8 mr-2 bg-[#080808] flex justify-center items-center rounded-full cursor-pointer"><img src={ArrowPrevIcon} alt="" width={25} onClick={PrevSlide}/></div>
                     <div className="w-8 h-8 bg-[#080808] flex justify-center items-center rounded-full cursor-pointer"><img src={ArrowNextIcon} alt="" width={25} onClick={NextSlide}/></div>
                 </div>

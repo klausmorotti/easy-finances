@@ -11,7 +11,7 @@ export const TeacherArea = () => {
                         <h2 className="font-['Open_Sans'] ml-2 font-semibold md:text-xl md:ml-4">Professores</h2>
                     </div>
                     <div className="mt-12 flex flex-col md:flex-row md:justify-between">
-                        <h1 className="font-['Open_Sans'] text-4xl text-[#080808] font-bold lg:text-5xl">Quem vai te ensinar</h1>
+                        <h1 className="font-['Open_Sans'] text-4xl text-[#080808] font-bold lg:text-5xl">Quem vai te orientar</h1>
                         <p className="mt-4 font-['inter'] md:w-80 md:text-xl md:mt-0"><span className="font-bold">4 professores</span> especializados para levar a sua performance ao máximo, sem complicação e com muita fluidez!</p>
                     </div>
                 </div>

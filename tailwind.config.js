@@ -20,6 +20,10 @@ module.exports = {
       fontFamily: {
         inter:"'Inter', sans-serif",
         opensans:"'Open Sans', sans-serif"
+      },
+      inset: {
+        'negativeright': '-100px',
+        'negativebottom': '-25px'
       }
     },
   },

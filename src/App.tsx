@@ -3,7 +3,6 @@ import { HeaderArea } from './components/HeaderArea';
 import { BannerArea } from './components/BannerArea';
 import { MethodologyArea } from './components/MethodologyArea';
 import { ObjectiveArea } from './components/ObjectiveArea';
-import { AutoSliderArea } from './components/AutoSliderArea';
 import { TeacherArea } from './components/TeacherArea';
 import { DepoimentsArea } from './components/DepoimentsArea';
 import { QuestionArea } from './components/QuestionArea';
